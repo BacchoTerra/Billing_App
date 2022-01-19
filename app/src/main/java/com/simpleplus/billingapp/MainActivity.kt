@@ -19,6 +19,8 @@ import kotlinx.coroutines.MainScope
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
+//To get billing analytics, all you have to do is link the google play account to the firebase project.
+// Firebase project settings -> Account linking
 class MainActivity : AppCompatActivity() {
 
     companion object{
